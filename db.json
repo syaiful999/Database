@@ -1,22 +1,27 @@
 {
   "posts": [
     {
+      "id": 1,
       "src": "logo7",
       "nama": "A TONG",
       "hasil": "BeTe is the best PT in Traveler, With this horse i can go to the West easily"
     },{
+      "id": 2,
       "src": "logo6",
       "nama": "GOGOBOY",
       "hasil": "Hohoho Tanks BeTe, i can save Planet Namex with this kinton"
     },{
+      "id": 3,
     "src": "logo3",
     "nama": "MR KACANG",
     "hasil": "hwhwhwhwhhwhhwhwhwhwhwhhwhwhwhwhhw"
     },{
+      "id": 4,
     "src": "logo5",
     "nama": "PULLY",
     "hasil": "GomuGomu noo Piscokkkk"
     },{
+      "id": 5,
     "src": "logo4",
     "nama": "GOSH RADAR",
     "hasil": "my bike is hot, need ice tea"
